@@ -179,3 +179,18 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Local credentials
+.env
+.env.*
+!.env.example
+credentials*.json
+token*.json
+
+# Personal assistant data
+data/
+logs/
+recordings/
+
+# Downloaded AI models
+models/
