@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{0728B83E-ED1A-4508-B888-D7CCA38D6B42}|Icarus-assistant\\Icarus-assistant.pyproj|solutionrelative:Icarus-assistant\\assistant.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BEAA511-9565-4FD7-855B-6E9D269BDD95}|Solution Items{4BEAA511-9565-4FD7-855B-6E9D269BDD95}|D:\\Personal Projects\\Projects\\icarus-assistant\\Icarus-assistant\\assistant.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4BEAA511-9565-4FD7-855B-6E9D269BDD95}|Solution Items{4BEAA511-9565-4FD7-855B-6E9D269BDD95}|solutionrelative:assistant.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0728B83E-ED1A-4508-B888-D7CCA38D6B42}|Icarus-assistant\\Icarus-assistant.pyproj|D:\\Personal Projects\\Projects\\icarus-assistant\\Icarus-assistant\\Icarus-assistant\\memory.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0728B83E-ED1A-4508-B888-D7CCA38D6B42}|Icarus-assistant\\Icarus-assistant.pyproj|solutionrelative:Icarus-assistant\\memory.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +26,28 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "memory.py",
+              "DocumentMoniker": "D:\\Personal Projects\\Projects\\icarus-assistant\\Icarus-assistant\\Icarus-assistant\\memory.py",
+              "RelativeDocumentMoniker": "Icarus-assistant\\memory.py",
+              "ToolTip": "D:\\Personal Projects\\Projects\\icarus-assistant\\Icarus-assistant\\Icarus-assistant\\memory.py",
+              "RelativeToolTip": "Icarus-assistant\\memory.py",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-10-07T10:51:51.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "assistant.py",
               "DocumentMoniker": "D:\\Personal Projects\\Projects\\icarus-assistant\\Icarus-assistant\\Icarus-assistant\\assistant.py",
               "RelativeDocumentMoniker": "Icarus-assistant\\assistant.py",
               "ToolTip": "D:\\Personal Projects\\Projects\\icarus-assistant\\Icarus-assistant\\Icarus-assistant\\assistant.py",
               "RelativeToolTip": "Icarus-assistant\\assistant.py",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwCwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-10-07T10:45:06.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "assistant.py",
-              "DocumentMoniker": "D:\\Personal Projects\\Projects\\icarus-assistant\\Icarus-assistant\\assistant.py",
-              "RelativeDocumentMoniker": "assistant.py",
-              "ToolTip": "D:\\Personal Projects\\Projects\\icarus-assistant\\Icarus-assistant\\assistant.py",
-              "RelativeToolTip": "assistant.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-10-07T10:45:01.107Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Icarus-assistant\\main.py",
               "ToolTip": "D:\\Personal Projects\\Projects\\icarus-assistant\\Icarus-assistant\\Icarus-assistant\\main.py",
               "RelativeToolTip": "Icarus-assistant\\main.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-10-07T10:21:43.08Z",
               "EditorCaption": ""

@@ -1,8 +1,6 @@
 <Solution>
-  <Folder Name="/Solution Items/">
-    <File Path="assistant.py" />
-  </Folder>
-  <Project Path="Icarus-assistant/Icarus-assistant.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Folder Name="/Solution Items/" />
+  <Project Path="Icarus-assistant/Icarus-assistant.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="0728b83e-ed1a-4508-b888-d7cca38d6b42">
     <Build Project="false" />
   </Project>
 </Solution>
